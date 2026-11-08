@@ -1,0 +1,1 @@
+﻿com.band.wristdict.release.1.0.0.rpk  a60c874f8d26b3f7614e8832d012bdbab358e757cf2bf870d105208eb0e612b3
