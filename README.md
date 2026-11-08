@@ -1,5 +1,6 @@
 # 腕上词典 · WristDict
 
+使用DeepSeek harness制作
 一个为 **小米手环 10 Pro**（Xiaomi Vela 快应用）写的**完全离线**英汉 / 汉英双向词典。
 
 不联网、不申请麦克风、不依赖手机，打开就能查。
