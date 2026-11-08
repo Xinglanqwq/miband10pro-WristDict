@@ -1,0 +1,22 @@
+# 依赖与构建产物
+node_modules/
+build/
+dist/
+.tmp/
+
+# 签名私钥，绝对不要提交
+sign/
+*.pem
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# 模拟器虚拟机
+.vela/
+
+# 预览截图（docs/ 里保留成品图）
+preview/shots/

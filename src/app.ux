@@ -1,0 +1,10 @@
+<script>
+export default {
+  onCreate() {
+    console.log('腕上词典 started')
+  },
+  onDestroy() {
+    console.log('腕上词典 destroyed')
+  }
+}
+</script>

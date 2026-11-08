@@ -1,0 +1,17 @@
+{
+  "name": "wristdict",
+  "version": "1.0.0",
+  "description": "Offline EN-ZH / ZH-EN dictionary for Xiaomi Smart Band 10 Pro (Vela quick app)",
+  "license": "MIT",
+  "keywords": ["vela", "quickapp", "xiaomi", "mi-band", "dictionary", "offline"],
+  "scripts": {
+    "start": "aiot start",
+    "build": "aiot build",
+    "release": "aiot release",
+    "preview": "node tools/serve-preview.mjs",
+    "data": "node tools/build-data.mjs"
+  },
+  "devDependencies": {
+    "aiot-toolkit": "^2.0.5"
+  }
+}
